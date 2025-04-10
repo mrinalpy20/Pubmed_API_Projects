@@ -89,4 +89,5 @@ Mrinal Kalita (mrinalk1361@gmail.com)
 
 - You can edit the project name, description, and examples as needed based on any changes you make to the project.
 - If you want to add other sections like "Contributing," "Acknowledgements," or "Future Work," feel free to customize it.
+- ChatGPT and PubMed API documentation was used to as external tools for this project
 
