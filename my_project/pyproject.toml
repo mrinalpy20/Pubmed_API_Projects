@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "fetch-pubmed-papers"
+version = "0.1.0"
+description = "Fetch PubMed papers with non-academic authors"
+authors = ["Mrinal Kalita mrinalk1361@gmail.com"]
+readme = "README.md"
+packages = [{include = "fetch_pubmed_papers"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+biopython = "^1.83"
+
+[tool.poetry.scripts]
+get-papers-list = "fetch_pubmed_papers.my_project.cli:entry_point"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
