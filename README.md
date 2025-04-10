@@ -1,6 +1,5 @@
 # Pubmed_API_Projects
 
-Sure! Here's a sample `README.md` for your project:
 
 ```markdown
 # PubMed API Paper Fetcher
@@ -91,4 +90,3 @@ Mrinal Kalita (mrinalk1361@gmail.com)
 - You can edit the project name, description, and examples as needed based on any changes you make to the project.
 - If you want to add other sections like "Contributing," "Acknowledgements," or "Future Work," feel free to customize it.
 
-Let me know if you'd like any changes!
